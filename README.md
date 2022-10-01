@@ -12,6 +12,12 @@ A simple image file compressor built with [nodeJS](https://nodejs.org//) and [br
 ## References
 - https://www.npmjs.com/package/compressing
 
+## Extra Improvement from this
+- 
+See this Shivam - https://blog.logrocket.com/build-a-file-compression-application-in-node-js-and-vue-js/
+- thank me later.
+
+
 ## Functionalities
 
 - Compress Image By Reducing Resolution and Size
@@ -45,6 +51,3 @@ npm install
 ```
 npm start dev
 ```
-
-See this Shivam - https://blog.logrocket.com/build-a-file-compression-application-in-node-js-and-vue-js/
-- thank me later.
