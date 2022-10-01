@@ -45,3 +45,6 @@ npm install
 ```
 npm start dev
 ```
+
+See this Shivam - https://blog.logrocket.com/build-a-file-compression-application-in-node-js-and-vue-js/
+- thank me later
