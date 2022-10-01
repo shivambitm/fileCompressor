@@ -7,18 +7,23 @@ I used multer as a middleware for handling form data that is mainly used to uplo
 
 ## Overview
 
-A simple image file compressor built with [nodeJS](https://nodejs.org//) and [browser-image-compression](https://www.npmjs.com/package/browser-image-compression).
+A simple image file compressor built with [nodeJS](https://nodejs.org//) and [browser-image-compression](https://www.npmjs.com/package/browser-image-compression). 
+
+## References
+- https://www.npmjs.com/package/compressing
 
 ## Functionalities
 
 - Compress Image By Reducing Resolution and Size
 - Offline Compression
+- Can also be deployed in future if work done
 
 ## Built With
 
 - NodeJS
 - ExpressJS
 - Image Compression
+- Front-end
 
 ## Development
 
@@ -38,5 +43,5 @@ npm install
 3. Run the app locally.
 
 ```
-npm start
+npm start dev
 ```
